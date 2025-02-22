@@ -4,6 +4,7 @@ This workshop we presented at the #CactusCon 13 #CISO Village, has been created 
 
 It is our opinion that any organization that follows a few key steps, will have a significant reduction of risk:
 •	Figure out who is likely to attack and research their usual tactics.
+
 •	Consider what they will be after… What is important about your organization?
 •	Identify and map out initial access vectors that could lead them to what they want. 
 •	Imagine and research how (in detail) they are likely to attack.
