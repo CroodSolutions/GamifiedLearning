@@ -1,5 +1,5 @@
 
-## Introduction / Executive Summary
+## Gamified Security Workshop from CactusCon 13 CISO Village
 
 This workshop we presented at the CactusCon 13 CISO Village, has been created to help guide participants through a workshop or gamified experience, to help create a security strategy.  How many of us have seen an organization spend insane amounts of money on things that shave away slivers of risk, while passing up opportunities to remediate the easiest issues and most fundamental problems?  Probably all of us who have been in the game for a while.
 
