@@ -29,7 +29,7 @@ It is our opinion that any organization that follows a few key steps, will have 
 
 ## Gameplay / Exercise Structure
 
-                  This exercise could be gamified and moderated using dice in a DnD style, or it could be delivered as more of a corporate workshop, using handouts, Post-It Notes, or whiteboards.  In either case, the idea is to walk through a real-world attack flow, and then map improvement ideas, in a way that educates and informs, while also helping to prioritize future actions and shape the vision.  If the former is selected, assign an experienced DM and build the provided scenarios into a “campaign” – if the latter, create cards and handouts and prepare to narrate the group through these discoveries. 
+This exercise could be gamified and moderated using dice in a DnD style, or it could be delivered as more of a corporate workshop, using handouts, Post-It Notes, or whiteboards.  In either case, the idea is to walk through a real-world attack flow, and then map improvement ideas, in a way that educates and informs, while also helping to prioritize future actions and shape the vision.  If the former is selected, assign an experienced DM and build the provided scenarios into a “campaign” – if the latter, create cards and handouts and prepare to narrate the group through these discoveries. 
 
 ·      Frame the scenario using a fictitious (or real) organization.
 
