@@ -1,2 +1,2 @@
-# GamifiedLearning
-This is a collection of gamified exercises I have used at various cybersecurity workshops, events and conferences to help make learning more fun and engaging. 
+# Attack Path Game
+These are some game cards and a couple of game boards vibe created to help gamify the learning of attack paths.  
